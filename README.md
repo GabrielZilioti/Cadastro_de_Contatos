@@ -1,2 +1,3 @@
 # Site_Escobar
-Site da agenda telefonica
+Site de agenda telefonica
+Atividade PHP na ITE-Bauru
