@@ -2,7 +2,7 @@
 Site de cadastro de contatos
 Atividade PHP na ITE-Bauru
 
-##Tech
+## Tech
 - PHP
 - Bootstrap
 - HTML
